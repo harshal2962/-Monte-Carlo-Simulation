@@ -5,11 +5,13 @@ to obtain numerical results. The underlying concept is to use randomness to solv
 
 This stochastic process is useful to achieve objective measures for all parts of the system so that better and more informed decision making and risk analysis is possible. 
 The most important additional principle associated with the MCS approach is that it can provide the probability distributions and histograms associated with the various reliability indices which, in consequence, can provide additional and more informative data about the behavior of a system.
+
 % %
 The IEEE Subcommittee on the Application of Probability
 Methods has developed a Reliability Test System(RTS) which includes both generation and major transmission facilities. The main objective was to provide a
 basic model which could be used to test or compare methods for reliability analysis of power systems. The generating capacity, load model data and other 
 common terminology are presented in the code.
+
 % %
 Results
 The power generation system is modelled to randomly create absence of some portion of it's generation capacity
