@@ -1,4 +1,4 @@
-# -Monte-Carlo
+# -Monte Carlo Simulation
 
 Monte Carlo-An application in power generation system
 
